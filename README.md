@@ -8,4 +8,4 @@ Some tutorials on user input is needed, but other than that this project feature
 - User inputs:
   - User can toggle pause
   - User can toggle a single square alive or dead with a mouse click
-  - User can speed up the simulation
+  - User can speed up/slow down the simulation
